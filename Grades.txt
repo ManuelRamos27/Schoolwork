@@ -1,0 +1,15 @@
+Anderson	91.5	95
+Blake	75.5	90
+Cheg	0	0
+Dang	95	85
+Engberg	80	100
+Farris	55	90
+Garcia	93.6	90.5
+Hadad	65	60
+Ionescu	100	95.5
+Johnson	75	90
+Kaloo	75	85
+Lagos	55.5	80
+Mikhailov	75	83.5
+Nguyen	95	100
+O'Neil	85	70
